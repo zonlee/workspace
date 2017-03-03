@@ -83,6 +83,11 @@ hello[^hello]
 
 # GIT学习笔记
 
+下载GIT  git clone git@github.com:zonlee/workspace.git
+
+上传GIT  git push -u origin master
+
+
 git config --global user.{name配置用户名  mail配置邮件账号}
 **ssh在工作目录下**
 [简单参考文档](rogerdudler.github.io/git-guide/index.zh.html)
