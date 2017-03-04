@@ -1,11 +1,12 @@
 #include <stdio.h>
+#include <stdbool.h>
 
 int main()
 {
-    int a,b;
-    int x,y;
-    scanf("%d %d",&a,&b);
-    x=a*10;
-    y=x／b;
+    int i=0;
+    if ( i==0 ) {
+        int i=3;
+    }
+    printf("%d\n", i);
     return 0;
 }
